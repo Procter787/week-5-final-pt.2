@@ -40,6 +40,9 @@ app.get("/api/number", (req, res) => {
   const numbers = ["93",
     "53",
     "87",
+    "42",
+    "3",
+    "9"
   ];
 
   // choose random compliment
